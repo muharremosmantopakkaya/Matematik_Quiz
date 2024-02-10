@@ -2,7 +2,13 @@
 Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz deneyimi sunar. Quiz'in zorluk seviyesini seçebilir ve doğru cevapları bulmak için becerilerinizi test edebilirsiniz.
 
 ## Ekran Görüntüleri
-[EKLENECEK]
+## Ekran Görüntüleri
+
+![Quiz Giriş Ekranı](app/screenshots/Quiz%20Giriş.png)
+![Quiz Sonuç Ekranı](app/screenshots/Quiz%20Sonuç.png)
+![Quiz Soru Ekranı](app/screenshots/Quiz%20Soru.png)
+![Quiz Splash Ekranı](app/screenshots/Quiz%20Splash.png)
+
 
 ## Kullanılan Teknolojiler
 - Android Studio: Uygulama Kotlin dili kullanılarak geliştirilmiştir.
