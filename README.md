@@ -24,8 +24,3 @@ Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz den
 ## Geliştirme Ortamı
 - Android Studio 4.0 veya üzeri kullanılması önerilir.
 - Firebase Firestore için uygun bağlantı ve kimlik doğrulaması sağlanmalıdır.
-
-
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için LICENSE dosyasına göz atın.
-
