@@ -3,15 +3,20 @@ Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz den
 
 ## Ekran Görüntüleri
 
-<div style="display:flex; justify-content: space-between; margin-bottom: 20px;">
-  <img src="app/screenshots/Quiz%20Giriş.png" alt="Quiz Giriş Ekranı" style="width:45%">
-  <img src="app/screenshots/Quiz%20Splash.png" alt="Quiz Splash Ekranı" style="width:45%">
+<div style="display:flex; margin-bottom: 20px;">
+  <div style="margin-right: 20px;">
+    <img src="app/screenshots/Quiz%20Giriş.png" alt="Quiz Giriş Ekranı" style="width:100%">
+    <p style="text-align:center;">Quiz Giriş Ekranı</p>
+  </div>
+  <div>
+    <img src="app/screenshots/Quiz%20Splash.png" alt="Quiz Splash Ekranı" style="width:100%">
+    <p style="text-align:center;">Quiz Splash Ekranı</p>
+  </div>
 </div>
 
-<div style="display:flex; justify-content: space-between;">
-  <img src="app/screenshots/Quiz%20Soru.png" alt="Quiz Soru Ekranı" style="width:45%">
-  <img src="app/screenshots/Quiz%20Sonuç.png" alt="Quiz Sonuç Ekranı" style="width:45%">
-</div>
+<div style="display:flex;">
+  <div style="margin-right: 20px;">
+    <img src="app/screenshots/Quiz%20Soru.png" alt="Quiz Soru E
 
 
 
