@@ -1,5 +1,5 @@
 # Matematik Quiz Uygulaması
-Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz deneyimi sunar. Quiz'in zorluk seviyesini seçebilir ve doğru cevapları bulmak için becerilerinizi test edebilirsiniz.
+### Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz deneyimi sunar. Quiz'in zorluk seviyesini seçebilir ve doğru cevapları bulmak için becerilerinizi test edebilirsiniz.
 
 ## Ekran Görüntüleri
 [EKLENECEK]
