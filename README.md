@@ -1,6 +1,7 @@
 # Matematik Quiz Uygulaması
 Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz deneyimi sunar. Quiz'in zorluk seviyesini seçebilir ve doğru cevapları bulmak için becerilerinizi test edebilirsiniz.
 
+
 ## Ekran Görüntüleri
 
 ### Quiz Splash ve Giriş Ekranı
@@ -9,6 +10,7 @@ Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz den
   <img src="app/screenshots/Quiz%20Giriş.png" alt="Quiz Giriş Ekranı" style="width:35%">
 
 </div>
+
 
 ### Quiz Soru ve Sonuç  Ekranı
 <div style="display:flex; justify-content: space-between; margin-bottom: 40px;">
