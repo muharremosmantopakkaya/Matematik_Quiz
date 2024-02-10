@@ -5,12 +5,13 @@ Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz den
 
 <div style="display:flex">
   <img src="app/screenshots/Quiz%20Giriş.png" alt="Quiz Giriş Ekranı" style="width:45%">
-  <img src="app/screenshots/Quiz%20Sonuç.png" alt="Quiz Sonuç Ekranı" style="width:45%">
+  <img src="app/screenshots/Quiz%20Splash.png" alt="Quiz Splash Ekranı" style="width:45%">
+ 
 </div>
 
 <div style="display:flex">
   <img src="app/screenshots/Quiz%20Soru.png" alt="Quiz Soru Ekranı" style="width:45%">
-  <img src="app/screenshots/Quiz%20Splash.png" alt="Quiz Splash Ekranı" style="width:45%">
+  <img src="app/screenshots/Quiz%20Sonuç.png" alt="Quiz Sonuç Ekranı" style="width:45%">
 </div>
 
 
