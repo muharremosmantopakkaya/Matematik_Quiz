@@ -3,8 +3,6 @@ Bu uygulama, kullanıcılara matematik sorularıyla dolu eğlenceli bir quiz den
 
 ## Ekran Görüntüleri
 
-## Ekran Görüntüleri
-
 ### Quiz Splash ve Giriş Ekranı
 <div style="display:flex; justify-content: space-between; margin-bottom: 40px;">
   <img src="app/screenshots/Quiz%20Splash.png" alt="Quiz Splash Ekranı" style="width:35%">
