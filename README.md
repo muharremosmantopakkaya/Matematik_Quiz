@@ -5,8 +5,8 @@
 [EKLENECEK]
 
 ## Kullanılan Teknolojiler
-Android Studio: Uygulama Kotlin dili kullanılarak geliştirilmiştir.
-Firebase Firestore: Kullanıcıların skorlarını saklamak için Firebase Firestore kullanılmıştır.
+### Android Studio: Uygulama Kotlin dili kullanılarak geliştirilmiştir.
+### Firebase Firestore: Kullanıcıların skorlarını saklamak için Firebase Firestore kullanılmıştır.
 
 ## Uygulama Bileşenleri ve Açıklamaları
 ### MainActivity: Uygulamanın ana ekranıdır. Kullanıcı buradan quiz'in zorluk seviyesini seçebilir.
